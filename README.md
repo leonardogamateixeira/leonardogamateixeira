@@ -50,7 +50,7 @@ trophy (start) -->
 
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+<div id="user-content-toc" align="center">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I studding👨🏻‍💻</h2></summary>
   </ul>
@@ -65,7 +65,7 @@ trophy (start) -->
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
-<div id="user-content-toc">
+<div id="user-content-toc" align="center">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
