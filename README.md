@@ -8,14 +8,6 @@
   </ul>
 </div>
 
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">new programmer</h2></summary>
-  </ul>
-</div>
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
